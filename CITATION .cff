@@ -1,0 +1,38 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: "Proyecto final: Representacion del Asma mediante un Circuito Electrico RLC"
+message: "Modelado de sistemas fisiologicos / Ingenieria Biomedica"
+type: software
+
+authors:
+  - given-names: Pamela
+    family-names: Escobedo Sandoval
+    email: l20211965@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+
+  - given-names: Alan Omar
+    family-names: Garcia Toledo
+    email: alan.garciate201@tectijuana.edu.mx
+    affiliation: Instituto Tecnologico de Tijuana
+
+identifiers:
+  - type: url
+    value: "https://github.com/l20211965-creator/MSFProyectoFinal"
+    description: "Repositorio GitHub"
+
+repository-code: "https://github.com/l20211965-creator/MSFProyectoFinal"
+
+url: "https://github.com/l20211965-creator/MSFProyectoFinal"
+
+keywords:
+  - Pulmones
+  - Respiracion
+  - Presion pulmonar
+  - Intercambio gaseoso
+  - Oxigenacion
+
+license: BSD-2-Clause
+version: "1.0"
+date-released: "2026-05-19"
